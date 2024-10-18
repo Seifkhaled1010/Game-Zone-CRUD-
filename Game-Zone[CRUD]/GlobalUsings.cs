@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using System.Diagnostics;
+global using Game_Zone_CRUD_.Services;
+global using Game_Zone_CRUD_.Models;
+global using Game_Zone_CRUD_.Data;
+global using Game_Zone_CRUD_.ViewModel;
+global using Game_Zone_CRUD_.Settings;
